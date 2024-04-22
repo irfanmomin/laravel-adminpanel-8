@@ -10,7 +10,7 @@
 
         <!-- Meta -->
         <meta name="description" content="@yield('meta_description', 'Default Description')">
-        <meta name="author" content="@yield('meta_author', 'Viral Solani')">
+        <meta name="author" content="@yield('meta_author', 'MT Laravel')">
         <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
         @yield('meta')
 

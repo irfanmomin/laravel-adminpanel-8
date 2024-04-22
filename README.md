@@ -150,7 +150,7 @@ If you come across any issues please report them [here](https://github.com/viral
 ## Contributing
 Feel free to create any pull requests for the project. For proposing any new changes or features you want to add to the project, you can send us an email at following addresses.
 
-    (1) Viral Solani - viral.solani@gmail.com
+    (1) MT Laravel - mt.laravel@gmail.com
     (2) Vipul Basapati - basapativipulkumar@gmail.com
     (3) Vallabh Kansagara - vrkansagara@gmail.com
     (4) Kamlesh Gupta - webworldgk@gmail.com
