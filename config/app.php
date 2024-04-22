@@ -192,12 +192,12 @@ return [
         //App\Providers\BroadcastServiceProvider::class,
         App\Providers\ComposerServiceProvider::class,
         App\Providers\EventServiceProvider::class,
-        App\Providers\TelescopeServiceProvider::class,
+        // App\Providers\TelescopeServiceProvider::class,
         App\Providers\HistoryServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         Bvipul\Generator\Provider\CrudGeneratorServiceProvider::class,
         Laravel\Passport\PassportServiceProvider::class,
-        Krgupta\Active\Providers\ActiveServiceProvider::class,
+        Irfan\ActiveLaravel\Providers\ActiveServiceProvider::class,
     ],
 
     /*
@@ -256,6 +256,6 @@ return [
         'Html'        => Collective\Html\HtmlFacade::class,
         'Socialite'   => Laravel\Socialite\Facades\Socialite::class,
         //'Datatables' => Yajra\DataTables\Facades\DataTables::class,
-        'Active'      => Krgupta\Active\Facades\Active::class,
+        'Active'      => Irfan\ActiveLaravel\Facades\Active::class,
     ],
 ];
